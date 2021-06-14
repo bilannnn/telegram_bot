@@ -2,3 +2,8 @@ bot_cfg:
   bot_token: '1816447887:AAEAiJa6uug8K8X3VmDJz_vybyjuJ93p0s8'
   admin_id: ['424537400']
   id: '424537400'
+
+
+urls:
+  apple: https://auchan.zakaz.ua/ru/products/auchan02205290000000/frukt-iabluka/
+  banana: https://auchan.zakaz.ua/uk/products/auchan02201462000000/frukt-banan/
